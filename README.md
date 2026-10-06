@@ -4,11 +4,11 @@ Checkpoint 5 – Computational Thinking With Python (FIAP)
 
 ## Integrantes
 
-| Nome | RM |
-|------|----|
-| Matheus Marques De Souza | RMxxxxx |
-| | |
-| | |
+| Nome |
+|------|
+| Matheus Marques De Souza|
+| Arthur Veiga Demétrio|
+| Luiz Gabriel Stuermer|
 
 ## O problema
 
